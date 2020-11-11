@@ -8,7 +8,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sunny-boop)](https://github.com/anuraghazra/github-readme-stats)
 [comment]: <> (# 模板合集：https://github.com/kautukkundan/Awesome-Profile-README-templates)
 
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm sunny. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
