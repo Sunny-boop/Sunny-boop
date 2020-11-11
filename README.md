@@ -4,10 +4,6 @@
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 
 ---
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sunny-boop)](https://github.com/anuraghazra/github-readme-stats)
-[comment]: <> (# 模板合集：https://github.com/kautukkundan/Awesome-Profile-README-templates)
-
 <h2> Hey there! I'm sunny. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -35,7 +31,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-boop&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 
 <h3> 🤝🏻 Connect with Me </h3>
