@@ -11,6 +11,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻&nbsp; Java   
-- 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐&nbsp; VUE | HTML | CSS | JavaScript | Bootstrap 
 - 🛢&nbsp; MySQL | Oracal
 - 🔧&nbsp; Idea | Visual Studio code | Eclipse | Git
