@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻&nbsp; Java   
-- 🧑‍💻&nbsp; Spring | Redis 
+- 🛠️&nbsp; Spring | Redis 
 - 🌐&nbsp; VUE | HTML | CSS | JavaScript 
 - 🛢&nbsp; MySQL | Oracal
 - 🔧&nbsp; Idea | Visual Studio code | Eclipse | Git
